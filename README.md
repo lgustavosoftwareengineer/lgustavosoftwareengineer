@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Luiz Gustavo! 👋👨‍💻
+Be welcome in my github to see what i'm doing! ✌️😝
+
+I've been focusing my studies on the Javascript/Typescript ecosystem and going straight to the fullstack dream! 🙏 
+## 🌎 My social networks
+- [My Twitter](https://twitter.com/tonicprism)
+- [My Instagram](https://www.instagram.com/lgustavo1909/)
+- [My LinkedIn](https://www.linkedin.com/in/luiz-matias-56146b1a5/)
 
 <!--
 **tonicprism/tonicprism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
