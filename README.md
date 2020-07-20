@@ -1,5 +1,5 @@
 # Hi there, I'm Luiz Gustavo! 👋👨‍💻
-Be welcome in my github to see what i'm doing! ✌️😝
+Be welcome to my github to see what i'm doing! ✌️😝
 
 I've been focusing my studies on the Javascript/Typescript ecosystem and going straight to the fullstack dream! 🙏 
 ## 🌎 My social networks
