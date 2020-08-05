@@ -3,10 +3,10 @@ Be welcome to my github to see what i'm doing! ✌️😝
 
 I've been focusing my studies on the Javascript/Typescript ecosystem and going straight to the fullstack dream! 🙏 
 ## 🌎 My social networks
-- **My Email to profissional contact (gugamatias7@gmail.com)**
-- [My Twitter (tonicprism)](https://twitter.com/tonicprism)
-- [My Instagram (lgustavo1909)](https://www.instagram.com/lgustavo1909/)
-- [My LinkedIn (Luiz Gustavo)](https://www.linkedin.com/in/luiz-matias-56146b1a5/)
+- **Email to profissional contact (gugamatias7@gmail.com)**
+- [Twitter (tonicprism)](https://twitter.com/tonicprism)
+- [Instagram (lgustavo1909)](https://www.instagram.com/lgustavo1909/)
+- [LinkedIn (Luiz Gustavo)](https://www.linkedin.com/in/luiz-matias-56146b1a5/)
 
 
 <!--
