@@ -12,7 +12,7 @@ Techs:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## 🌎 My social networks
-- **[Email to profissional contact](luiz.matias@upe.br)**
+- **Email to profissional contact (luiz.matias@upe.br)**
 - [Twitter (tonicprism)](https://twitter.com/tonicprism)
 - [Instagram (lgustavo1909)](https://www.instagram.com/lgustavo1909/)
 - [LinkedIn (Luiz Gustavo)](https://www.linkedin.com/in/luiz-matias-56146b1a5/)
