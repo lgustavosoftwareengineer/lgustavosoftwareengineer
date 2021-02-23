@@ -16,7 +16,7 @@ Techs:
 ## 🌎 My social networks
 - **Email to profissional contact (luiz.matias@upe.br)**
 - [Twitter (tonicprism)](https://twitter.com/tonicprism)
-- [Instagram (lgustavo1909)](https://www.instagram.com/lgustavo1909/)
+- [Instagram (luizgstv.o)](https://www.instagram.com/luizgstv.o/)
 - [LinkedIn (Luiz Gustavo)](https://www.linkedin.com/in/luiz-matias-56146b1a5/)
 
 ## 👨‍💻 My Status
