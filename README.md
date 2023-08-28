@@ -1,5 +1,4 @@
 # Hi there, I'm Luiz Gustavo! 👋👨‍💻
-Be welcome to my github to see what i'm doing! ✌️😝
 
 🔍 Software Engineer with extensive fullstack development experience, specializing in JavaScript and its primary frameworks. Currently, I am a fullstack NodeJS developer at Base Digital.
 
