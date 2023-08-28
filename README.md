@@ -18,7 +18,7 @@ Techs:
 
 ## 🌎 My social networks
 - **Email to profissional contact (luiz.matias@upe.br)**
-- [LinkedIn (Luiz Gustavo)](https://www.linkedin.com/in/luiz-gustavo-56146b1a5/)
+- [LinkedIn (Luiz Gustavo)](https://www.linkedin.com/in/lgustavosoftwareengineer)
 
 <!--
 **tonicprism/tonicprism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
