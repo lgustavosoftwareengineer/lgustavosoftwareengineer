@@ -4,7 +4,7 @@
 
 🎓 I had the honor of being the first president of the academic committee for the software engineering course at the University of Pernambuco (UPE). During my tenure at UPE, I also served as a fullstack JavaScript developer for the UPE Plus application, a crucial tool for people flow control within UPE campuses amid the Covid-19 pandemic.
 
-📱 With a passion for mobile application development, I worked as a specialist developer in React Native at Clin - Digital Dental Plan and also as a mid-level mobile application developer at Escala (Hospital Israelita Albert Einstein startup) - Complete Workforce Management Solution.
+📱 With a passion for mobile application development, I worked as a specialist developer in React Native at Clin - Digital Dental Plan and also as a mid-level frontend developer at Escala (Hospital Israelita Albert Einstein startup) - Complete Workforce Management Solution.
 
 Techs: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
