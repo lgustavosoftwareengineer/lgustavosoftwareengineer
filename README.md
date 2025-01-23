@@ -2,7 +2,7 @@
 
 🔍 Software Engineer specializing in full-stack development with expertise in JavaScript and TypeScript. Currently, I work as a **Full-Stack Developer at Base Digital** and as a **Frontend Outsourcing Developer at Electrolux Group**.  
 
-🎓 I hold a Bachelor's Degree in Software Engineering from the **University of Pernambuco (UPE)**, where I served as the first president of the academic committee for the software engineering course.  
+🎓 I hold a Bachelor's Degree in Software Engineering from the **University of Pernambuco (UPE)** (2019 - 2024), where I served as the first president of the academic committee for the software engineering course.  
 
 📱 Passionate about solving real-world problems with technology, I’ve contributed to impactful projects:  
 - At **Electrolux Group**, I help maintain and enhance web applications, focusing on Angular and Azure-based solutions.  
