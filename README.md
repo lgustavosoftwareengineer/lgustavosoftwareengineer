@@ -26,5 +26,5 @@
 - Played a key role in building AI-powered applications and backend services using **Remix, NestJS, GraphQL, Prisma, and CockroachDB**, ensuring scalability, high availability, and excellent user experiences.
 
 ## 🌎 My Social Networks  
-- **📧 Email for professional contact:** [gugamatias7@gmail.com](mailto:gugamatias7@gmail.com)  
+- **📧 Email for professional contact:** [luizgustavoupe@gmail.com](mailto:luizgustavoupe@gmail.com)  
 - **💼 LinkedIn:** [Luiz Gustavo](https://www.linkedin.com/in/lgustavosoftwareengineer)
