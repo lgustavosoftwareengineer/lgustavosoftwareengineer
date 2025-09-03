@@ -1,13 +1,14 @@
 # Hi there, I'm Luiz Gustavo! 👋👨‍💻  
 
-🔍 Software Engineer specializing in full-stack development with expertise in JavaScript and TypeScript. Currently, I work as a **Full-Stack Developer at Base Digital** and as a **Frontend Outsourcing Developer at Electrolux Group**.  
+🔍 Software Engineer specializing in full-stack development with expertise in JavaScript and TypeScript. Currently, I work as a **Frontend Engineer at SK Intertainment, Inc.**.  
 
 🎓 I hold a Bachelor's Degree in Software Engineering from the **University of Pernambuco (UPE) (2019 - 2024)** , where I served as the first president of the academic committee for the software engineering course.  
 
 📱 Passionate about solving real-world problems with technology, I’ve contributed to impactful projects:  
+- At **SK Intertainment, Inc.**, I develop and maintain modern full-stack applications (Remix/NestJS) including AI-powered platforms designed to deliver personalized experiences to end users.  
 - At **Electrolux Group**, I help maintain and enhance web applications, focusing on Angular and Azure-based solutions.  
 - At **Clin - Digital Dental Plan**, I worked as a specialist in mobile development, creating cross-platform apps with React Native.  
-- At **Hospital Israelita Albert Einstein**, I contributed to a workforce management solution, building scalable and intuitive interfaces.  
+- At **Hospital Israelita Albert Einstein**, I contributed to a workforce management solution, building scalable and intuitive interfaces.
 
 💻 With over 4 years of experience, I’ve honed my skills across a diverse tech stack:  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
