@@ -1,10 +1,11 @@
 # Hi there, I'm Luiz Gustavo! 👋👨‍💻  
 
-🔍 Software Engineer specializing in full-stack development with expertise in JavaScript and TypeScript. Currently, I work as a **Frontend Engineer at SK Intertainment, Inc.**.  
+🔍 Senior software engineer specializing in full-stack development with expertise in JavaScript and TypeScript. Currently, I work as a **Senior Backend Software Engineer at MJV Technology & Innovation.**.  
 
 🎓 I hold a Bachelor's Degree in Software Engineering from the **University of Pernambuco (UPE) (2019 - 2024)** , where I served as the first president of the academic committee for the software engineering course.  
 
-📱 Passionate about solving real-world problems with technology, I’ve contributed to impactful projects:  
+📱 Passionate about solving real-world problems with technology, I’ve contributed to impactful projects:
+- At **MJV Technology & Innovation**, I work as Node.js specialist on enterprise-scale financial systems. I contribute to the design and development of scalable backend services using Node.js and NestJS.
 - At **SK Intertainment, Inc.**, I develop and maintain modern full-stack applications (Remix/NestJS) including AI-powered platforms designed to deliver personalized experiences to end users.  
 - At **Electrolux Group**, I help maintain and enhance web applications, focusing on Angular and Azure-based solutions.  
 - At **Clin - Digital Dental Plan**, I worked as a specialist in mobile development, creating cross-platform apps with React Native.  
