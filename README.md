@@ -11,7 +11,7 @@
 - At **Clin - Digital Dental Plan**, I worked as a specialist in mobile development, creating cross-platform apps with React Native.  
 - At **Hospital Israelita Albert Einstein**, I contributed to a workforce management solution, building scalable and intuitive interfaces.
 
-💻 With over 4 years of experience, I’ve honed my skills across a diverse tech stack:  
+💻 With over 5 years of experience, I’ve honed my skills across a diverse tech stack:  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
